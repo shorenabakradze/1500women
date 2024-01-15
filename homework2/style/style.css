@@ -1,0 +1,171 @@
+.header-bg {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.header-bg-ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 469px;
+    margin-left: 531px;
+}
+.li-item{
+    color: #2414DB;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.act-home  {
+  color: #F50808;
+}
+
+.image-bg img {
+  width: 100%;
+}
+.welcome-bg {
+    width: 780px;
+    margin: 120px 0 120px 170px;
+}
+.welcome-bg h2 {
+    color: #17326E;
+    font-size: 36px;
+    font-family: 'Inter', sans-serif;
+    Line-height: 43.57px;
+}
+.welcome-bg p {
+    color: #17326E;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    Line-height: 24.2px;
+    padding-top: 24px;
+}
+
+.article-bg {
+    background: #EBEBF0;
+    height: 439px;
+    
+    
+}
+.article-bg div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    padding: 121px 72px;
+    width: 80%;
+}
+.article-bg-1 {
+    background: #EBEBF0;
+ 
+}
+.article-div {
+    width: 80%;
+    margin: 0 auto;
+    padding: 73px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+.our-div {
+    width: 519px;
+    margin-right: 95px;
+}
+.our-div h2 {
+    color: #17326E;
+    font-size: 36px;
+    font-family: 'Inter', sans-serif;
+    Line-height: 43.57px;
+}
+.our-div p {
+    color: #17326E;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    Line-height: 24.2px;
+    padding-top: 24px;
+}
+.image-4 {
+    width: 566px;
+    height: 371px;
+}
+  
+.image-1 {
+    padding-right: 20px;
+    width: 380px;
+}
+
+.image-2 {
+    padding-right: 20px;
+    width: 380px;
+}
+.image-3 {
+    width: 380px;
+}
+
+.footer-bg {
+    background-color: #19126B;
+    height: 161px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-bg a {
+    padding: 10px;
+    width: 180px;
+}
+.footer-bg div {
+    padding-left: 130px;
+    width: 40%;
+}
+
+.footer-bg p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    font-family: 'Inter', sans-serif;
+}
+.contact-div {
+    width: 323px;
+}
+address {
+    margin-left: 177px;
+}
+.contact-div {
+    margin-left: 90px;
+}
+.contact-div h2 {
+    color: #17326E;
+    font-size: 25px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    Line-height: 43.57px;
+    text-transform: uppercase;
+    padding-bottom: 24px;
+
+}
+
+.address-style {
+    font-size: 16px;
+    color:  #0D69A9;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-weight: 400;
+}
+.address-style span, a {
+    color: #000;
+    font-size: 16px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-weight: 400;
+    Line-height: 25px;
+}
+.article-div-2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:start;
+    padding-top: 78px;
+    padding-bottom: 94px;
+}
+.act-home{
+    color: #F50808;
+}
